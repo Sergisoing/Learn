@@ -15,3 +15,5 @@
 `7. php --ini  查找php配置文件`
 
 `8. php -m  查看php当前模块`
+
+`9. chown -R user:group 修改文件的所有者和所属组`
