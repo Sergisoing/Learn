@@ -17,3 +17,5 @@
 `8. php -m  查看php当前模块`
 
 `9. chown -R user:group 修改文件的所有者和所属组`
+
+`10. cat /proc/cpuinfo | grep processor 查看当前有机子CPU核数`
