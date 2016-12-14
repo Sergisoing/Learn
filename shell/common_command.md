@@ -19,3 +19,5 @@
 `9. chown -R user:group 修改文件的所有者和所属组`
 
 `10. cat /proc/cpuinfo | grep processor 查看当前有机子CPU核数`
+
+`11. diff -ruNa 文件夹1 文件夹2  比较两个文件或者文件夹内容`
