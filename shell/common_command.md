@@ -21,3 +21,5 @@
 `10. cat /proc/cpuinfo | grep processor 查看当前有机子CPU核数`
 
 `11. diff -ruNa 文件夹1 文件夹2  比较两个文件或者文件夹内容`
+
+`12. lsof -i:端口号  查看端口占用`
